@@ -9,6 +9,7 @@
 - CSS
 - JavaScript
 - Git & GitHub
+- C language
 
 ## Current Project
 - ApnaWorker
